@@ -4,7 +4,7 @@ getLastWordLength = (str) => {
     return lastSymbol.length;
 };
 
-export default getLastWordLength;
+//export default getLastWordLength;
 
 console.log(getLastWordLength(''));
 console.log(getLastWordLength('man in BlacK'));
